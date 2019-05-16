@@ -1,7 +1,7 @@
 # Project Vigilant Basoon
-# Copyright (C) SwastikNath Group LLC 2019
-# Copyright (C) PositionX Machines Research and Development Company Limited 2019.
-||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+### Copyright (C) SwastikNath Group LLC 2019
+### Copyright (C) PositionX Machines Research and Development Company Limited 2019.
+
 Eclipse Public License - v 2.0
 
     THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS ECLIPSE
